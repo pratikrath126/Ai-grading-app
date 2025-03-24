@@ -1,0 +1,10 @@
+# Ignore OS-specific & unnecessary files
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+__pycache__/
+dist/
+build/
+*.log
+```
