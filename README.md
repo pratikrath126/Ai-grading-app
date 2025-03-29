@@ -23,7 +23,7 @@ This AI-powered teacher assistant helps automate grading with OCR and provides p
    - AI processes and grades responses
 
 ## 📷 Demo
-[Demo Video](#) *(Replace with actual video link)*
+[Demo Video](https://youtu.be/QI5SYpj81wU) 
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
