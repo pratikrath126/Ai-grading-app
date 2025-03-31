@@ -32,5 +32,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Pull requests are welcome. For major changes, open an issue first to discuss.
 
 ## 📬 Contact
-- **Email:** pratikrath28@example.com
+- **Email:** pratikrath28@egmail.com
 - **GitHub Issues:** [Report a bug](https://github.com/yourusername/ai-grading-app/issues)
